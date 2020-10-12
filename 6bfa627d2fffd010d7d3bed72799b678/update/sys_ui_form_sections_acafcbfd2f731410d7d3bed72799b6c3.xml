@@ -14,6 +14,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-10-12 18:41:36</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-12 23:21:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73cf84822f771410d7d3bed72799b666</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_526472_wish_list_wish_item" name="x_526472_wish_list_wish_item" sys_domain="global" view="Default view">acafcbfd2f731410d7d3bed72799b6c3</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_526472_wish_list_wish_item" sys_domain="global" view="Default view">6ebc8b792f731410d7d3bed72799b6a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-12 23:21:59</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_526472_wish_list_wish_item</name>
             <roles/>
